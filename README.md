@@ -30,7 +30,7 @@ A simple weather monitoring application that provides real-time weather data usi
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/weather-monitoring-app.git
+   git clone https://github.com/SBAKMaged/weather-monitoring-app.git
    cd weather-monitoring-app
    ```
 
