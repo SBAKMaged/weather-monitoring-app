@@ -1,0 +1,16 @@
+{
+  "name": "weather-app-backend",
+  "version": "1.0.0",
+  "description": "Weather monitoring backend API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "axios": "^0.21.4",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
