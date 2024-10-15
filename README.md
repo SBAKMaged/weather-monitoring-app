@@ -1,4 +1,3 @@
-```markdown
 # Weather Monitoring Application
 
 A simple weather monitoring application that provides real-time weather data using a weather API. The application is built with React for the frontend and Node.js for the backend, and it is containerized using Docker.
@@ -27,6 +26,7 @@ A simple weather monitoring application that provides real-time weather data usi
 - [Terraform](https://www.terraform.io/downloads.html) (for infrastructure setup)
 
 ## Installation
+
 
 1. **Clone the Repository**
    ```bash
